@@ -1,0 +1,8 @@
+{
+  "model": "resnet50",
+  "device": "cpu",
+  "metric": "cosine",
+  "num_items": 7390,
+  "embedding_dim": 2048,
+  "seed": 42
+}

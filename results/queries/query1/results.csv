@@ -1,0 +1,11 @@
+rank,path,label,cosine_distance
+1,data\oxford-iiit-pet\images\Ragdoll_139.jpg,Ragdoll,5.960464477539063e-08
+2,data\oxford-iiit-pet\images\Ragdoll_186.jpg,Ragdoll,0.19790148735046387
+3,data\oxford-iiit-pet\images\Ragdoll_68.jpg,Ragdoll,0.22337019443511963
+4,data\oxford-iiit-pet\images\Ragdoll_193.jpg,Ragdoll,0.23256349563598633
+5,data\oxford-iiit-pet\images\Ragdoll_34.jpg,Ragdoll,0.2380225658416748
+6,data\oxford-iiit-pet\images\Ragdoll_173.jpg,Ragdoll,0.2385118007659912
+7,data\oxford-iiit-pet\images\Ragdoll_196.jpg,Ragdoll,0.24283838272094727
+8,data\oxford-iiit-pet\images\Ragdoll_128.jpg,Ragdoll,0.24749606847763062
+9,data\oxford-iiit-pet\images\Ragdoll_121.jpg,Ragdoll,0.2595057487487793
+10,data\oxford-iiit-pet\images\Ragdoll_133.jpg,Ragdoll,0.26416832208633423

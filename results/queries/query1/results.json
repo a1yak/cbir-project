@@ -1,0 +1,62 @@
+[
+  {
+    "rank": 1,
+    "path": "data\\oxford-iiit-pet\\images\\Ragdoll_139.jpg",
+    "label": "Ragdoll",
+    "cosine_distance": 5.960464477539063e-08
+  },
+  {
+    "rank": 2,
+    "path": "data\\oxford-iiit-pet\\images\\Ragdoll_186.jpg",
+    "label": "Ragdoll",
+    "cosine_distance": 0.19790148735046387
+  },
+  {
+    "rank": 3,
+    "path": "data\\oxford-iiit-pet\\images\\Ragdoll_68.jpg",
+    "label": "Ragdoll",
+    "cosine_distance": 0.22337019443511963
+  },
+  {
+    "rank": 4,
+    "path": "data\\oxford-iiit-pet\\images\\Ragdoll_193.jpg",
+    "label": "Ragdoll",
+    "cosine_distance": 0.23256349563598633
+  },
+  {
+    "rank": 5,
+    "path": "data\\oxford-iiit-pet\\images\\Ragdoll_34.jpg",
+    "label": "Ragdoll",
+    "cosine_distance": 0.2380225658416748
+  },
+  {
+    "rank": 6,
+    "path": "data\\oxford-iiit-pet\\images\\Ragdoll_173.jpg",
+    "label": "Ragdoll",
+    "cosine_distance": 0.2385118007659912
+  },
+  {
+    "rank": 7,
+    "path": "data\\oxford-iiit-pet\\images\\Ragdoll_196.jpg",
+    "label": "Ragdoll",
+    "cosine_distance": 0.24283838272094727
+  },
+  {
+    "rank": 8,
+    "path": "data\\oxford-iiit-pet\\images\\Ragdoll_128.jpg",
+    "label": "Ragdoll",
+    "cosine_distance": 0.24749606847763062
+  },
+  {
+    "rank": 9,
+    "path": "data\\oxford-iiit-pet\\images\\Ragdoll_121.jpg",
+    "label": "Ragdoll",
+    "cosine_distance": 0.2595057487487793
+  },
+  {
+    "rank": 10,
+    "path": "data\\oxford-iiit-pet\\images\\Ragdoll_133.jpg",
+    "label": "Ragdoll",
+    "cosine_distance": 0.26416832208633423
+  }
+]
